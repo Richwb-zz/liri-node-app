@@ -1,0 +1,186 @@
+
+Wed Oct 04 2017 12:08:04 GMT-0400 (Eastern Daylight Time)-
+
+action: Pull From Filewas requested
+Wed Oct 04 2017 12:08:56 GMT-0400 (Eastern Daylight Time)-
+
+action: Pull From Filewas requested
+Wed Oct 04 2017 12:10:52 GMT-0400 (Eastern Daylight Time)-
+
+action: Pull From Filewas requested
+Wed Oct 04 2017 12:11:21 GMT-0400 (Eastern Daylight Time)-
+
+action: Pull From Filewas requested
+Wed Oct 04 2017 12:11:21 GMT-0400 (Eastern Daylight Time)-
+invalid selection: spotify
+Wed Oct 04 2017 12:11:21 GMT-0400 (Eastern Daylight Time)-
+
+action: spotifywas requested for "I Want it That Way"
+Wed Oct 04 2017 12:11:43 GMT-0400 (Eastern Daylight Time)-
+
+action: Pull From Filewas requested
+Wed Oct 04 2017 12:11:43 GMT-0400 (Eastern Daylight Time)-
+
+action: Spotifywas requested for "I Want it That Way"
+Wed Oct 04 2017 12:11:44 GMT-0400 (Eastern Daylight Time)-
+Results for "I Want it That Way":
+
+ Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c436228a7bd54dd280ac01c67f96e060
+ Title: I Want It That Way
+ Artist: Backstreet Boys
+ Album: The Hits--Chapter One
+ ==========
+Wed Oct 04 2017 12:12:52 GMT-0400 (Eastern Daylight Time)-
+action: Tweetswas requested
+Wed Oct 04 2017 12:12:52 GMT-0400 (Eastern Daylight Time)-
+Result for My Tweets: 
+
+Tue Oct 03 01:24:38 +0000 2017
+Ride like the wind, Bullseye!
+---------
+Tue Oct 03 01:23:14 +0000 2017
+I have been chosen! Farewell, my friends. I go on to a better place.
+---------
+Tue Oct 03 01:22:49 +0000 2017
+You are a sad, strange little man, and you have my pity
+---------
+Tue Oct 03 01:22:04 +0000 2017
+That wasn't flying! That was falling with style.
+---------
+Tue Oct 03 01:21:24 +0000 2017
+You're a toyyyyyyyyyyyyyyyyy
+---------
+Tue Oct 03 01:20:50 +0000 2017
+You've got a friend in me
+---------
+Tue Oct 03 01:20:15 +0000 2017
+The Claw!
+---------
+Tue Oct 03 01:20:05 +0000 2017
+there's a snake in my boot
+---------
+Tue Oct 03 01:19:56 +0000 2017
+too infinity and beyond
+---------
+Wed Oct 04 2017 12:33:19 GMT-0400 (Eastern Daylight Time)-
+action: Tweetswas requested
+Wed Oct 04 2017 12:33:19 GMT-0400 (Eastern Daylight Time)-
+Result for My Tweets: 
+
+Tue Oct 03 01:24:38 +0000 2017
+Ride like the wind, Bullseye!
+---------
+Tue Oct 03 01:23:14 +0000 2017
+I have been chosen! Farewell, my friends. I go on to a better place.
+---------
+Tue Oct 03 01:22:49 +0000 2017
+You are a sad, strange little man, and you have my pity
+---------
+Tue Oct 03 01:22:04 +0000 2017
+That wasn't flying! That was falling with style.
+---------
+Tue Oct 03 01:21:24 +0000 2017
+You're a toyyyyyyyyyyyyyyyyy
+---------
+Tue Oct 03 01:20:50 +0000 2017
+You've got a friend in me
+---------
+Tue Oct 03 01:20:15 +0000 2017
+The Claw!
+---------
+Tue Oct 03 01:20:05 +0000 2017
+there's a snake in my boot
+---------
+Tue Oct 03 01:19:56 +0000 2017
+too infinity and beyond
+---------
+Wed Oct 04 2017 12:33:37 GMT-0400 (Eastern Daylight Time)-
+action: Spotifywas requested for blue
+Wed Oct 04 2017 12:33:38 GMT-0400 (Eastern Daylight Time)-
+Results for blue:
+
+ Preview URL: https://p.scdn.co/mp3-preview/4fd8dd4532f5c256745783bba52750e59af1238f?cid=c436228a7bd54dd280ac01c67f96e060
+ Title: Blue Tacoma
+ Artist: Russell Dickerson
+ Album: Yours - EP
+ ==========
+Wed Oct 04 2017 12:33:57 GMT-0400 (Eastern Daylight Time)-
+action: Movie Look Upwas requested for twister
+Wed Oct 04 2017 12:33:57 GMT-0400 (Eastern Daylight Time)-
+Result for twister:
+
+Title: Twister
+Internet Movie Database: 6.3/10
+Rotten Tomatoes: 57%
+Released: 1996
+Country: USA
+Language: English
+Plot: Bill and Jo Harding, advanced storm chasers on the brink of divorce, must join together to create an advanced weather alert system by putting themselves in the cross-hairs of extremely violent tornadoes.
+Actors: Helen Hunt, Bill Paxton, Cary Elwes, Jami Gertz
+Fri Oct 06 2017 14:39:39 GMT-0400 (Eastern Daylight Time)-
+action: Tweetswas requested
+Fri Oct 06 2017 14:39:40 GMT-0400 (Eastern Daylight Time)-
+Result for My Tweets: 
+
+Tue Oct 03 01:24:38 +0000 2017
+Ride like the wind, Bullseye!
+---------
+Tue Oct 03 01:23:14 +0000 2017
+I have been chosen! Farewell, my friends. I go on to a better place.
+---------
+Tue Oct 03 01:22:49 +0000 2017
+You are a sad, strange little man, and you have my pity
+---------
+Tue Oct 03 01:22:04 +0000 2017
+That wasn't flying! That was falling with style.
+---------
+Tue Oct 03 01:21:24 +0000 2017
+You're a toyyyyyyyyyyyyyyyyy
+---------
+Tue Oct 03 01:20:50 +0000 2017
+You've got a friend in me
+---------
+Tue Oct 03 01:20:15 +0000 2017
+The Claw!
+---------
+Tue Oct 03 01:20:05 +0000 2017
+there's a snake in my boot
+---------
+Tue Oct 03 01:19:56 +0000 2017
+too infinity and beyond
+---------
+Fri Oct 06 2017 14:39:46 GMT-0400 (Eastern Daylight Time)-
+action: Spotifywas requested for blue
+Fri Oct 06 2017 14:39:47 GMT-0400 (Eastern Daylight Time)-
+Results for blue:
+
+ Preview URL: https://p.scdn.co/mp3-preview/4fd8dd4532f5c256745783bba52750e59af1238f?cid=c436228a7bd54dd280ac01c67f96e060
+ Title: Blue Tacoma
+ Artist: Russell Dickerson
+ Album: Yours - EP
+ ==========
+Fri Oct 06 2017 14:39:58 GMT-0400 (Eastern Daylight Time)-
+action: Movie Look Upwas requested for avatar
+Fri Oct 06 2017 14:39:58 GMT-0400 (Eastern Daylight Time)-
+Result for avatar:
+
+Title: Avatar
+Internet Movie Database: 7.8/10
+Rotten Tomatoes: 84%
+Released: 2009
+Country: UK, USA
+Language: English, Spanish
+Plot: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+Fri Oct 06 2017 14:40:12 GMT-0400 (Eastern Daylight Time)-
+action: Pull From Filewas requested
+Fri Oct 06 2017 14:40:12 GMT-0400 (Eastern Daylight Time)-
+action: Spotifywas requested for "I Want it That Way"
+Fri Oct 06 2017 14:40:12 GMT-0400 (Eastern Daylight Time)-
+Results for "I Want it That Way":
+
+ Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c436228a7bd54dd280ac01c67f96e060
+ Title: I Want It That Way
+ Artist: Backstreet Boys
+ Album: The Hits--Chapter One
+ ==========
